@@ -1,5 +1,5 @@
 # Data-Mining
-The codes for my data mining course
+The codes for my Data Mining course
 
 <b>Homework 1:</b> 
 
