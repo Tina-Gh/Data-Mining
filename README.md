@@ -20,6 +20,6 @@ Working with the datset of Covid_19 patients.
   3. implementation 3: Naïve Bayes Text Classification, on Amazon book reviews, without using the pre-defined Naive Bayesian method, and instead by calculating words' frequency probabilities. (Bag of Words Model) This code combines <strong>NLP</strong>, <strong>Sentimental Analysis</strong>, and <strong>Opinion Mining</strong>.
   
  
-<b>Final_Project.rar</b>
+<b>Final_Project:</b>
 
 In this project, I used <a href="https://www.kaggle.com/jessemostipak/hotel-booking-demand" target="_blank">Hotel Bookings Kaggle's dataset</a> to predict hotel bookings cancelations! And the accuracy was about 86.5%! Also I did some Data Analysis to extract some valuable information such as the optimal length of stay to get the best daily rate, finding the busiest months of the year and the origin country of most of the guests. Also I predicted whether or not a hotel was likely to receive a disproportionately high number of special requests. I absolutely enjoyed this course throughout my semester!
