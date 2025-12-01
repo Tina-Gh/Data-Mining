@@ -1,0 +1,14 @@
+age:		age in years
+sex:		male or female
+cpchest:	chest pain
+trestbps:	resting blood pressure (in mm Hg on admission to the hospital)
+chol:		serum cholestoral in mg/dl
+fbs:		fasting blood sugar greater than 120 mg/dl? (true/false)
+restecg:	resting electrocardiographic results (1-3)
+thalach:	maximum heart rate achieved
+exang:		exercise induced angina (yes/no)
+oldpeak:	ST depression induced by exercise relative to rest
+slope:		the slope of the peak exercise ST segment (0-2)
+ca:		number of major vessels colored by flourosopy (0-3)
+thal:		(normal/fixed_defect/reversable_defect)
+target:		(yes/no)
